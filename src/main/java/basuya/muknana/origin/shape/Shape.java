@@ -1,4 +1,4 @@
-package basuya.muknana.origin;
+package basuya.muknana.origin.shape;
 
 public interface Shape {
     public void draw();

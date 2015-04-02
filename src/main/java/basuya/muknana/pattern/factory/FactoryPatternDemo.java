@@ -1,6 +1,6 @@
 package basuya.muknana.pattern.factory;
 
-import basuya.muknana.origin.Shape;
+import basuya.muknana.origin.shape.Shape;
 
 public class FactoryPatternDemo {
     public static void main( String[] args ) {
